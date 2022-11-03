@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var pensRouter = require('./routes/pens');
 var gridbuildRouter = require('./routes/gridbuild');
-var selectorRouter = require('./routes/slector');
+var selectorRouter = require('./routes/selector');
 
 var app = express();
 
